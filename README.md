@@ -118,7 +118,7 @@ This project is licensed under the MIT License.Feel free to use it, improve it, 
 - Unsplash – for free, high-quality images
 - Vite – for fast local dev and build experience
 
-##📬 Let’s Connect!
+## 📬 Let’s Connect!
 - Feel free to reach out if:
 - You're learning React and need help with routing
 - You want the source code or walkthrough
