@@ -96,6 +96,9 @@ This project demonstrates:
 - or
 - yarn dev
 
+### 🌐 Live Demo
+- 🔗 https://digi-bost.netlify.app/
+
 ## 🤝 Contributing
 All contributions are welcome!
 -  Fork & clone the repo
